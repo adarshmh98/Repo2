@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 182E-1B2C
+
+ Directory of C:\Users\Adarsh M H\Desktop\MyProject
+
+06-10-2020  17:35    <DIR>          .
+06-10-2020  17:35    <DIR>          ..
+06-10-2020  17:35               124 test1.txt
+               1 File(s)            124 bytes
+               2 Dir(s)  223,495,131,136 bytes free
